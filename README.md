@@ -3,3 +3,9 @@ A simple Java Program that finds solutions for that peg puzzle you see at Cracke
 
 Writen for CSCE4430 - Programming Languages - Dr. Paul Tarau, and based of his python code at https://github.com/ptarau/CrackerBarrelPegPuzzle
 
+## Usage
+Compile and run with the provided makefile:
+```
+$ make
+$ make run
+```
